@@ -19,6 +19,7 @@ span {
   justify-content: space-around;
   align-items: center;
   margin: 47px 158px;
+  margin: auto;
   gap: 350px;
   margin-bottom: 200px;
 }
